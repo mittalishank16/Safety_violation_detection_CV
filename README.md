@@ -8,8 +8,8 @@ Real-time Personal Protective Equipment (PPE) violation detection for constructi
 
 | Service | URL |
 |---|---|
-| Dashboard | `https://safety-dashboard-xxxx.vercel.app` |
-| API (Swagger UI) | `https://safety-detection-api-xxxx.onrender.com/docs` |
+| Dashboard | `https://dashboard-nine-ebon-70.vercel.app/` |
+| API (Swagger UI) | ` https://safety-violation-detection-cv.onrender.com/docs` |
 
 > The API runs on Render's free tier and cold-starts after 15 minutes of inactivity. Use the "Wake up API" button in the dashboard and allow 30 seconds before uploading a video.
 
